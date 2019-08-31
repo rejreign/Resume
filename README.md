@@ -13,19 +13,13 @@
 #####	 However, using __Cascading Style Sheet (CSS)__, the page is easily styled. 
 #####    Here are a few changes to the code:
 
-- [x]	 The page is divided into 2 columns using div and an outer "wrap". A design of nav bars have been placed 
-		 and styled, colored, positioned and bordered differently to allow body color show
+- [x]	 __1__. Page is divided into 2 columns using __div__ and __nav__ tags
+- [x]	 __2__. The  __hr__ tag was used to create horizontal line spacing for sections of column 1.
+- [x]    __3__.  A review of __body__ ; column 2's __section__ & __font-color__ (changed to White) was effected
+- [x] 	 __4__. __font-color__  of all __a__ texts have been changed to blue(both as is and when visited), for aesthetics reasons.
 
-- [x]	 Having been advised to discard table, the <hr> tag was used to create the 
-- [x]	 horizontal lines separating the sections of text on column one.
-
-- [x]    Body background color, border(style & width) - as well as 
-- [x]    a section of Column 2 including font(changed to white), have been reviewed.
-
-- [x] 	 Font color of all anchor texts have been changed to blue(both as is and when visited), for aesthetics reasons.
-
-- [x]	 An anchor __hover__ feature has been effected on only the quote on text:  __"Patrick McKenzie(@patio11)"__
-- [x]	 Thus, font size should popout having been coded to increase by 105% when mouse is hovered on it.
+- [x]	 An __a__:__hover__ feature has been effected on only the quote on text:  __"Patrick McKenzie(@patio11)"__
+- [x]	 _Thus, font size should popout having been coded to increase by 105% when mouse is hovered on it.
 - [x]	 However, for all anchor tags, font color should be purple when mouse is hovered on it.
 
 - [x]	 IDs and Classes were used as required. CSS code was written separately and linked to the HTML code in <Head>
