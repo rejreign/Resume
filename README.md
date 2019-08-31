@@ -6,11 +6,7 @@
 
 #### SCRIPTING WEBPAGES USING HTML & CSS ONLY; _NO TABLES, NO JAVASCRIPT OR FRAMEWORKS_
 
-#####	 Scripting a web page using only HTML can be quite challenging
-#####    Even more challenging is any attempt to infuse a bit of creativity
-#####	 to an arrangement of just text and images.
-	
-#####	 However, using __Cascading Style Sheet (CSS)__, the page is easily styled. 
+#####	 Scripting a web page using only HTML can be quite challenging. Even more challenging is any attempt to infuse a bit of #####    creativity to an arrangement of just text and images. However, using __Cascading Style Sheet (CSS)__, the page is easily styled. 	 
 #####    Here are a few changes to the code:
 
 - [x]	 __1__. Page is divided into 2 columns using __div__ and __nav__ tags
