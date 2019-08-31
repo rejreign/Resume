@@ -1,6 +1,5 @@
 #### CSS,HTML,IMAGES, TEXT CV WEBPAGE
 [SCREENSHOT OF CSS & HTML CV WEBPAGE **WITH** REPO IMAGES](https://res.cloudinary.com/rejreign/image/upload/v1567252498/SydneyCSS35_aecydu.png)
-[SCREENSHOT OF CSS & HTML CV WEBPAGE **WITH** REPO IMAGES](https://res.cloudinary.com/rejreign/image/upload/v1567257379/SydneyCSS35_hgquzv.png)
 
 #### SCRIPTING WEBPAGES USING HTML & CSS ONLY; _NO TABLES, NO JAVASCRIPT OR FRAMEWORKS_
 
