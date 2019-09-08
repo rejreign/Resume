@@ -1,13 +1,15 @@
-#### UPDATED RESUME SPOTTING HTML,CSS, JAVASCRIPT, IMAGES & TEXThttps://github.com/rejreign/Resume/projects
+### UPDATED RESUME SPOTTING HTML,CSS, JAVASCRIPT, IMAGES & TEXT
 ##### PAGE HOSTED ON GITHUB:
 [URL TO PAGE HOSTED ON GITHUB](https://rejreign.github.io/Resume/)
 [SCREENSHOT OF PAGE](https://res.cloudinary.com/rejreign/image/upload/v1567941848/ResumeUpdated_mldlhe.png)
-##### ContactMe Form added at top of page. 
-##### Javascript code added to create typing effect at top of page
-##### Blinking class added in CSS to display a blinking cursor (_)
-##### Container, Writeup classes added in CSS to style Form and id=typedtext and cursor(_)
-#####https://rejreign.github.io/Resume/ Repo merged and renamed
+##### __ContactMe Form added at top of page.__
+##### __Javascript code added to create typing effect at top of page__
+##### __Blinking class added in CSS to display a blinking cursor (_)__
+##### __Container, Writeup classes added in CSS to style Form and id=typedtext and cursor(_)__
+##### __Repo merged and renamed__
 
+
+###   PREVIOUS ITERATIONS
 ###### CSS,HTML,IMAGES, TEXT CV WEBPAGE
 [SCREENSHOT OF CSS & HTML CV WEBPAGE **WITH** REPO IMAGES](https://res.cloudinary.com/rejreign/image/upload/v1567257379/SydneyCSS35_hgquzv.png)
 ###### HTML,IMAGES, TEXT CV WEBPAGE
