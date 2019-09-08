@@ -8,13 +8,10 @@
 #####  _Javascript code added to create typing effect at top of page_
 #####  _Blinking class added in CSS to display a blinking cursor (_)_
 #####  _Container, Writeup classes added in CSS to style Form and id=typedtext and cursor(_)_
-#####  _Repo merged, updated and renamed
-###
-###
-###
-###
-###
-###
+#####  _Repo merged, updated and renamed_
+<br />
+<br />
+
 ###   PREVIOUS ITERATIONS
 ###### CSS,HTML,IMAGES, TEXT CV WEBPAGE
 [SCREENSHOT OF CSS & HTML CV WEBPAGE **WITH** REPO IMAGES](https://res.cloudinary.com/rejreign/image/upload/v1567257379/SydneyCSS35_hgquzv.png)
