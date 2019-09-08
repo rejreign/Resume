@@ -4,11 +4,11 @@
 #### SCREENSHOT OF PAGE:
 [SCREENSHOT OF PAGE](https://res.cloudinary.com/rejreign/image/upload/v1567941848/ResumeUpdated_mldlhe.png)
 ####    The details of this update are stated below:
-##### __ContactMe Form added at top of page.__
-##### __Javascript code added to create typing effect at top of page__
-##### __Blinking class added in CSS to display a blinking cursor (_)__
-##### __Container, Writeup classes added in CSS to style Form and id=typedtext and cursor(_)__
-##### __Repo merged and renamed__
+#####  _ContactMe Form added at top of page._
+#####  _Javascript code added to create typing effect at top of page_
+#####  _Blinking class added in CSS to display a blinking cursor (_)_
+#####  _Container, Writeup classes added in CSS to style Form and id=typedtext and cursor(_)_
+#####  _Repo merged and renamed__
 
 
 ###   PREVIOUS ITERATIONS
