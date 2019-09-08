@@ -1,6 +1,7 @@
 ### UPDATED RESUME SPOTTING HTML,CSS, JAVASCRIPT, IMAGES & TEXT
 ##### PAGE HOSTED ON GITHUB:
 [URL TO PAGE HOSTED ON GITHUB](https://rejreign.github.io/Resume/)
+##### SCREENSHOT OF PAGE:
 [SCREENSHOT OF PAGE](https://res.cloudinary.com/rejreign/image/upload/v1567941848/ResumeUpdated_mldlhe.png)
 ##### __ContactMe Form added at top of page.__
 ##### __Javascript code added to create typing effect at top of page__
